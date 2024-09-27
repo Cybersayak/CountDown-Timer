@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url("./cover.jpg");
+  background-image: url("./durgama.jpg");
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -20,6 +20,7 @@ h1 {
   font-weight: normal;
   font-size: 4rem;
   margin-top: 5rem;
+  color: white;
 }
 
 .countdown-container {
@@ -30,8 +31,10 @@ h1 {
   font-size: 6rem;
   line-height: 1;
   margin: 0 2rem;
+  color: white;
 }
 
 .countdown-el span {
   text-size: 1.5rem;
+  color: white;
 }
