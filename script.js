@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const MinutesE1 = document.getElementById("minutes");
   const SecondE1 = document.getElementById('seconds');
 
-  const Pujo = '10 October 2024';
+  const Pujo = '17 October 2026';
 
   function countdown() {
     const PujoDate = new Date(Pujo);
